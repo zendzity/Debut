@@ -55,7 +55,7 @@
                   <div class="cart__meta-text">
                     {% for p in item.properties %}
                       {% unless p.last == blank %}
-                        {{ p.first }}:
+                        {% unless p.first contains '_is_preorder' %}{{ p.first }}:{% endunless %}
 
                         {% comment %}
                           Check if there was an uploaded file associated
@@ -224,3 +224,5 @@
     ]
   }
 {% endschema %}
+
+<!-- GPO installed -->

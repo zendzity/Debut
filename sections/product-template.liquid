@@ -169,7 +169,7 @@
                     {{ variant.title }}
                   </option>
                 {% else %}
-                  <option disabled="disabled">{{ variant.title }} - {{ 'products.product.sold_out' | t }}</option>
+                  <option disabled="disabled" {% if variant == product.selected_or_first_available_variant %} selected="selected" {% endif %} value="{{ variant.id }}">{{ variant.title }} - {{ 'products.product.sold_out' | t }}</option>
                 {% endif %}
               {% endfor %}
             </select>
@@ -346,3 +346,5 @@
   }]);
 </script>
 
+
+<!-- GPO installed -->
