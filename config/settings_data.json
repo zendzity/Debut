@@ -68,13 +68,12 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/1.2-Logo_vertical.png",
           "logo_max_width": "260",
           "main_linklist": "main-menu",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "",
           "message": false,
-          "message_text": "TODAY: Worldwide shipping only $2.95 ❤",
-          "banner_text": "Want 5% DISCOUNT? Use discount code FOX5. Valid for 10 minutes.",
+          "message_text": "High Quality Fingerboards",
+          "banner_text": "Automatic 10% discount at your first checkout!",
           "message_link": "",
           "colorbanner_bg": "#53d410",
           "color_bg": "#000000",
@@ -84,7 +83,6 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/photo-1484081064812-86e90e107fa8.jpg",
           "alignment": "center",
           "title": "Check out our new collections.",
           "text": "<p>Save up to 50% on selected items!<\/p>",
@@ -135,6 +133,7 @@
       },
       "1495554487076": {
         "type": "newsletter",
+        "disabled": true,
         "settings": {
           "title": "Join the tribe",
           "subtitle": "Never miss the hot new products and deals, we promise to never spam you!",
@@ -143,39 +142,46 @@
       },
       "1508981222613": {
         "type": "collection-list",
+        "disabled": true,
         "blocks": {
           "1508981222613-0": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "gadgets"
             }
           },
           "1508981222613-1": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "kids"
             }
           },
           "1508981222613-2": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "christmas-gifts-decorations"
             }
           },
           "1509358030931": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "cooking-baking"
             }
           },
           "1509358056791": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "home-living"
             }
           },
           "1509358043836": {
             "type": "featured_collection",
+            "disabled": true,
             "settings": {
               "collection": "beauty"
             }
@@ -197,7 +203,7 @@
       "1509357672432": {
         "type": "collection",
         "settings": {
-          "title": "Collection of the day",
+          "title": "Newly Released",
           "collection": "christmas-gifts-decorations",
           "grid": "3",
           "rows": "2",
@@ -207,12 +213,14 @@
       },
       "1509357808487": {
         "type": "custom-content",
+        "disabled": true,
         "blocks": {
           "1509357808487-0": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "NOT JUST A VOYAGE… We Go and Bring back the World",
-              "text": "<p>How do you feel when a loved one goes on a journey and returns&hellip;with a special gift? Something new, that makes you dream of the lands where it came from&hellip; Something you will never want to lose, because you know you won&rsquo;t find it by just walking down the street or even going to the mall&hellip; Something exciting and just for you!<\/p>\n<p>It is a great feeling and at Fox Stark we want you to feel this way all of the time.<\/p>\n<p>Fox Stark&nbsp; is a store that was started by three friends after they met while travelling the world. The store was set up because they have a passion to share unique products that they discover during their travels round the world.<br><br>Fox Stark<\/p>",
+              "text": "<p>How do you feel when a loved one goes on a journey and returns…with a special gift? Something new, that makes you dream of the lands where it came from… Something you will never want to lose, because you know you won’t find it by just walking down the street or even going to the mall… Something exciting and just for you!<\/p><p>It is a great feeling and at Fox Stark we want you to feel this way all of the time.<\/p><p>Fox Stark  is a store that was started by three friends after they met while travelling the world. The store was set up because they have a passion to share unique products that they discover during their travels round the world.<br\/><br\/>Fox Stark<\/p>",
               "width": "100%",
               "alignment": "center",
               "align_text": "left"
@@ -262,7 +270,8 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "hero": {
           "type": "hero",
@@ -275,18 +284,21 @@
           "blocks": {
             "slideshow-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "slideshow-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "slideshow-0",
             "slideshow-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-collections": {
           "type": "collection",
@@ -296,7 +308,8 @@
         },
         "feature-row": {
           "type": "feature-row",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
