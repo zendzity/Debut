@@ -233,6 +233,36 @@
         "settings": {
           "title": "About Fox Stark"
         }
+      },
+      "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e-1670596210c33fe72a-0": {
+            "type": "text",
+            "settings": {
+              "title": "Talk about your brand",
+              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e-1670596210c33fe72a-1": {
+            "type": "image",
+            "settings": {
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e-1670596210c33fe72a-0",
+          "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e-1670596210c33fe72a-1"
+        ],
+        "settings": {
+          "title": "Custom content"
+        }
       }
     },
     "content_for_index": [
@@ -240,7 +270,8 @@
       "1508981222613",
       "1509357808487",
       "1509357672432",
-      "1495554487076"
+      "1495554487076",
+      "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e"
     ]
   },
   "presets": {
