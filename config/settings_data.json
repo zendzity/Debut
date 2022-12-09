@@ -97,7 +97,7 @@
         "settings": {
           "footer_linklist": "footer",
           "footer_linklist_two": "",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "",
           "footer_newsletter_enable": false,
           "show_payment_icons": true
         }
