@@ -89,7 +89,7 @@
           "hero_size": "medium",
           "text_size": "large",
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections"
+          "button_link": "shopify:\/\/collections\/all"
         }
       },
       "footer": {
