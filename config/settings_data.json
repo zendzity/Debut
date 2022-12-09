@@ -84,8 +84,8 @@
         "type": "hero",
         "settings": {
           "alignment": "center",
-          "title": "Check out our new collections.",
-          "text": "<p>Save up to 50% on selected items!<\/p>",
+          "title": "",
+          "text": "",
           "hero_size": "medium",
           "text_size": "large",
           "button_label": "SHOP NOW",
