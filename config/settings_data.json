@@ -272,7 +272,15 @@
       "1509357672432",
       "1495554487076",
       "8ba6cd66-86c9-43f9-93f7-dcb5c7b0059e"
-    ]
+    ],
+    "blocks": {
+      "5439026248262864547": {
+        "type": "shopify:\/\/apps\/preorder-globo-back-in-stock\/blocks\/app-embed\/e547a0ad-8212-4bcc-b02f-761faa9b8af2",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
